@@ -14,6 +14,6 @@ title: Doggos
 author: Fumakija
 ---
 
-I'm trying to eat
-in peace, please leave me alone
-okay, fine have some.
+I'm trying to eat </br>
+in peace, please leave me alone </br>
+okay, fine have some. </br>
